@@ -1,1 +1,1 @@
-# AniLog
+delete readme
